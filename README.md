@@ -5,7 +5,7 @@
 
 ## Website Live Demo Link
 
-- [Awesome Books with ES6](https://mudasirsherwani.github.io/webpack-tuttorial/)
+- [Webpack Testing Project](https://mudasirsherwani.github.io/webpack-tuttorial/)
 
 ## Built With
 
